@@ -24,3 +24,5 @@ obj/
 
 # Archivos de datos específicos del proyecto
 gov2_pages.dat
+ListaAdyacencia.txt
+ResultQueries.txt
