@@ -1,0 +1,26 @@
+# Archivos compilados
+*.exe
+*.obj
+*.o
+*.out
+*.class
+
+# Archivos de configuración de VS Code que no queremos subir
+.vscode/
+
+# Archivos temporales
+*~
+*.tmp
+*.temp
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de compilación
+build/
+bin/
+obj/
+
+# Archivos de datos específicos del proyecto
+gov2_pages.dat
